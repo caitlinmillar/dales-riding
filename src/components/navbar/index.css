@@ -1,0 +1,9 @@
+body {
+    padding-bottom: 20px;
+  }
+  
+  .navbar-nav {
+    --bs-nav-link-color: #9ab1a6;
+    --bs-navbar-active-color: white;
+    --bs-navbar-hover-color: #aace9c;
+  }

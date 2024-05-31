@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: fangsong;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
